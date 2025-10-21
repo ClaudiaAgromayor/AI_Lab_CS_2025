@@ -1,6 +1,6 @@
 # AI_Lab_CS_2025
 ## Overview
-Comprehensive solutions to AI tutorial sessions covering machine learning, search algorithms, multiagent systems, and reinforcement learning. Includes problem statements, mathematical derivations, and practical applications.
+Comprehensive solutions to AI tutorial sessions from Harvard-MIT program covering machine learning, search algorithms, multiagent systems, and reinforcement learning.
 
 ## Topics Covered
 ### TS1: Machine Learning
